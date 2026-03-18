@@ -1,0 +1,13 @@
+Company,Item,Category,Done
+Company A,Read company blog and recent engineering posts,Research,Yes
+Company A,Check LinkedIn for interviewer profiles,Research,Yes
+Company A,Review Glassdoor interview questions section,Research,Yes
+Company A,Understand company's main product and business model,Research,Yes
+Company A,Prepare 3 questions to ask each interviewer,Research,No
+Company A,Review React hooks and performance optimization patterns,Technical,Yes
+Company A,Practice 2 system design problems (URL shortener + news feed),Technical,No
+Company A,Review TypeScript generics and utility types,Technical,Yes
+Company A,Prepare STAR format answers for 5 behavioral questions,Behavioral,Yes
+Company A,Write out "Tell me about yourself" script (2 min version),Behavioral,Yes
+Company A,Confirm interview time and timezone,Logistics,Yes
+Company A,Test video call setup and backup connection,Logistics,No

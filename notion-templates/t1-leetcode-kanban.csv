@@ -1,0 +1,11 @@
+Name,Difficulty,Status,Pattern,Time Complexity,Space Complexity,Review Date,Notes
+Two Sum,Easy,Solved,Hash Map,O(n),O(n),2026-03-25,"Classic hash map problem. Store complement as key, index as value. One pass solution."
+Best Time to Buy and Sell Stock,Easy,Solved,Sliding Window,O(n),O(1),2026-03-26,"Track min price so far, update max profit at each step. No need for DP."
+Longest Substring Without Repeating Characters,Medium,Solved,Sliding Window,O(n),O(min(m n)),,""
+Valid Parentheses,Easy,Solved,Stack,O(n),O(n),2026-03-27,"Use stack. Push on open bracket, pop and compare on closing bracket."
+Merge Two Sorted Lists,Easy,Solved,Linked List,O(n+m),O(1),,""
+Maximum Subarray,Medium,Solved,Dynamic Programming,O(n),O(1),2026-04-01,"Kadane's algorithm. Reset running sum to 0 when it goes negative."
+Climbing Stairs,Easy,Solved,Dynamic Programming,O(n),O(1),2026-04-02,"Fibonacci pattern. dp[i] = dp[i-1] + dp[i-2]. Optimize to O(1) space."
+Coin Change,Medium,In Progress,Dynamic Programming,O(n*amount),O(amount),,""
+Word Search,Medium,Needs Review,DFS/Backtracking,O(m*n*4^L),O(L),,""
+Merge Intervals,Medium,Todo,Sorting,O(n log n),O(n),,"Sort by start time, then merge overlapping intervals."

@@ -1,0 +1,9 @@
+Title,Type,URL,Category,Status,Rating,Notes
+roadmap.sh,Article,https://roadmap.sh,Career / Learning Paths,Completed,5,"Interactive visual roadmaps for frontend, backend, DevOps and more. Best starting point for figuring out what to learn next."
+MDN Web Docs,Article,https://developer.mozilla.org,Frontend / Web APIs,Reading,5,"The authoritative reference for HTML, CSS, and JavaScript. Browser compatibility tables are invaluable."
+CS50: Introduction to Computer Science,Course,https://cs50.harvard.edu/x,CS Fundamentals,Completed,5,"Harvard's free intro CS course. Covers C, Python, SQL, and web development. Exceptional production quality."
+The Missing Semester of Your CS Education,Course,https://missing.csail.mit.edu,Tools / DevOps,Reading,5,"MIT course on shell, vim, git, debugging, and profiling — the practical skills most CS programs skip."
+Designing Data-Intensive Applications,Book,https://dataintensive.net,Backend / Databases,Reading,5,"Martin Kleppmann's book on distributed systems and databases. Essential reading before any system design interview."
+Hussein Nasser on YouTube,Video,https://www.youtube.com/@hnasr,Backend / Networking,Reading,4,"Deep dives into backend engineering: databases, protocols, Kafka, PostgreSQL internals. Technical and clear."
+web.dev,Article,https://web.dev,Frontend / Performance,Reading,4,"Google's resource for modern web best practices. Strong coverage of Core Web Vitals and performance optimization."
+Fireship,Video,https://www.youtube.com/@Fireship,Full Stack / Tools,Completed,5,"100-second concept overviews and longer project tutorials. Best channel for staying current with the JS ecosystem."

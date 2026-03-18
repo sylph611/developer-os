@@ -1,0 +1,11 @@
+Task,Status,Priority,Sprint,Tags,Notes
+Set up authentication with NextAuth.js,Done,High,Sprint 1,Auth,""
+Design database schema for user profiles,Done,High,Sprint 1,DB,""
+Implement user registration and login flow,Done,High,Sprint 1,"Auth, Frontend",""
+Build dashboard landing page UI,In Progress,High,Sprint 2,"Frontend, UI","Figma design in progress. Waiting on color palette approval."
+Integrate Stripe for subscription billing,In Progress,High,Sprint 2,"Payments, Backend","Using Stripe Checkout. Webhook handler for subscription events still needed."
+Write unit tests for auth middleware,Todo,Medium,Sprint 2,Testing,""
+Set up CI/CD pipeline with GitHub Actions,Todo,High,Sprint 2,"DevOps, CI/CD","Deploy to Vercel on merge to main. Run tests on every PR."
+Build email notification system,Todo,Medium,Sprint 3,Backend,"Use Resend API. Templates: welcome, password reset, weekly digest."
+Add dark mode support,Todo,Low,Sprint 3,"Frontend, UI","Use next-themes. Persist preference in localStorage."
+Optimize image loading with next/image,Backlog,Low,Sprint 3,Performance,""

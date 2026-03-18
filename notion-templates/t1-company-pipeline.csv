@@ -1,0 +1,6 @@
+Company,Role,Status,Applied Date,Next Step,Recruiter Contact,Notes
+Company A,Senior Frontend Engineer,Technical,2026-03-01,Take-home coding assignment due 2026-03-22,sarah.kim@companya.com,"Strong culture fit. Stack: React + TypeScript + GraphQL. Glassdoor rating 4.2."
+Company B,Full Stack Developer,Phone Screen,2026-03-05,HR call scheduled 2026-03-20 at 2pm,recruiting@companyb.io,"Series B startup. 80 engineers. Remote-first. Equity package looks competitive."
+Company C,Software Engineer II,Onsite,2026-02-20,Final round with VP Engineering on 2026-03-25,james.park@companyc.com,"4 rounds total: DSA, system design, behavioral x2. Prep distributed systems."
+Company D,Backend Engineer,Applied,2026-03-15,Waiting for response,,""
+Company E,Platform Engineer,Rejected,2026-02-10,,"","Reached out for feedback. Said team went with someone with more Kubernetes exp."
