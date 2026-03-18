@@ -51,7 +51,7 @@ Setup Instructions:
 3. Select your workspace.
 4. Follow the Setup Checklist inside the template.
 
-Questions? Email: your@email.com
+Questions? Email: sylph611@gmail.com
 ```
 
 3. Gumroad Product > Content > Upload File에 해당 .txt 파일 업로드
@@ -102,7 +102,7 @@ If you find it useful, the full Developer OS bundle (Side Project Dashboard + De
 https://[yourhandle].gumroad.com/l/developer-os
 
 Good luck with the interviews.
-— [Your name]
+— sylph611
 ```
 
 ---
@@ -151,7 +151,7 @@ Thank you for your purchase.
 Future updates will be delivered to your Gumroad email.
 When a new version is available, you'll receive a link via email.
 
-Questions? Email: your@email.com
+Questions? Email: sylph611@gmail.com
 ```
 
 이 파일을 Gumroad Product > Content > Upload File에 업로드합니다.
@@ -213,7 +213,7 @@ What to do next:
 Future updates will be delivered here — no need to do anything.
 
 Thanks for supporting an indie developer.
-— [Your name]
+— sylph611
 ```
 
 ---

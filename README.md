@@ -160,9 +160,9 @@ A. This is a personal license. Contact me for team licensing.
 
 This is an indie-made digital product. Feedback, bug reports, and feature suggestions are always welcome.
 
-- **이슈 제보 / Bug report**: [GitHub Issues](https://github.com/yourhandle/developer-os/issues)
-- **기능 제안 / Feature suggestion**: [GitHub Discussions](https://github.com/yourhandle/developer-os/discussions)
-- **이메일 / Email**: your@email.com
+- **이슈 제보 / Bug report**: [GitHub Issues](https://github.com/sylph611/developer-os/issues)
+- **기능 제안 / Feature suggestion**: [GitHub Discussions](https://github.com/sylph611/developer-os/discussions)
+- **이메일 / Email**: ccg0611a@gmail.com
 
 ---
 

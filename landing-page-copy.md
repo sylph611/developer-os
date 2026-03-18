@@ -154,7 +154,6 @@ Built by a developer who got tired of rebuilding the same systems from scratch.
 
 ## FOOTER NOTE (optional Gumroad note field)
 
-Questions? Email: your@email.com
-Follow updates: twitter.com/yourhandle
+Questions? Email: sylph611@gmail.com
 
 Personal use license. Not for resale or redistribution.
