@@ -50,7 +50,7 @@ GitHub 계정에서 새 저장소 생성:
 - 생성 링크: https://github.com/new
 
 ```bash
-git remote add origin https://github.com/[yourhandle]/developer-os.git
+git remote add origin https://github.com/sylph611/developer-os.git
 git branch -M main
 git push -u origin main
 ```
@@ -77,9 +77,9 @@ Settings > General > Features
 
 `README.md`에서 다음 항목을 실제 값으로 교체합니다:
 - `https://gumroad.com/l/developer-os` → 실제 Gumroad URL
-- `https://github.com/yourhandle/developer-os/issues` → 실제 GitHub Issues URL
-- `https://github.com/yourhandle/developer-os/discussions` → 실제 Discussions URL
-- `your@email.com` → 실제 이메일
+- `https://github.com/sylph611/developer-os/issues` ✅ 업데이트됨
+- `https://github.com/sylph611/developer-os/discussions` ✅ 업데이트됨
+- `sylph611@gmail.com` ✅ 업데이트됨
 
 ```bash
 # 링크 교체 후 커밋
