@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Notion export artifacts (if you export and version raw files)
+*.html
+notion-export/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Assets working files (keep final PNGs, ignore source files)
+assets/*.psd
+assets/*.sketch
+assets/*.fig
+
+# Temp / drafts
+drafts/
+*.draft.md
