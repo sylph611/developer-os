@@ -1,0 +1,9 @@
+Feature,Status,Impact,Effort,Target Sprint,Notes
+User authentication (email + OAuth),Shipped,High,Medium,Sprint 1,"NextAuth.js with Google and GitHub providers"
+Subscription billing with Stripe,In Progress,High,High,Sprint 2,"Stripe Checkout + webhook handling. Free and Pro tiers."
+Dashboard with usage analytics,Planned,High,Medium,Sprint 3,"Show key metrics: activity heatmap, streak, recent items"
+CSV export for all data,Planned,Medium,Low,Sprint 3,"One-click download. UTF-8 with BOM for Excel compatibility."
+Team workspace and member invites,Idea,High,High,Sprint 5,"Needs org/team model in DB. Significant scope increase."
+Mobile app (React Native),Idea,Medium,High,,""
+Public API with rate limiting,Planned,Medium,High,Sprint 4,"REST API with API key auth. Docs via Swagger."
+AI-powered suggestions,Dropped,Medium,High,,"Deprioritized — adds infra cost and complexity before product-market fit"
