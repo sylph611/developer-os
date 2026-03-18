@@ -22,3 +22,6 @@ assets/*.fig
 # Temp / drafts
 drafts/
 *.draft.md
+
+# Gumroad delivery files (contains real Notion links — never commit)
+gumroad-files/
